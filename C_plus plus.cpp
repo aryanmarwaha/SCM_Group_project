@@ -2,7 +2,7 @@
 using namespace std;
 class RECT
 { 
-
+// edited by Aryan Marwaha
     public:
     void area()
     {
