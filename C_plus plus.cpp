@@ -1,9 +1,14 @@
-#include <iostream>
+include <iostream>
 using namespace std;
 class RECT
 { 
+<<<<<<< HEAD
 
     public:    //edited by arman
+=======
+// edited by Aryan Marwaha
+    public:
+>>>>>>> f6194cff1355ff89a7a8ffe46708d94c52349541
     void area()
     {
         cout<<"Area of rectangle"<<endl;
