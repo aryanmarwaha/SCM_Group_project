@@ -3,7 +3,7 @@ using namespace std;
 class RECT
 { 
 
-    public:
+    public:    //edited by arman
     void area()
     {
         cout<<"Area of rectangle"<<endl;
